@@ -1,0 +1,7 @@
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio57\bin\Debug\Exercicio57.exe.config
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio57\bin\Debug\Exercicio57.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio57\bin\Debug\Exercicio57.pdb
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio57\obj\Debug\Exercicio57.csproj.AssemblyReference.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio57\obj\Debug\Exercicio57.csproj.CoreCompileInputs.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio57\obj\Debug\Exercicio57.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio57\obj\Debug\Exercicio57.pdb

@@ -1,0 +1,7 @@
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio54_corrigido\bin\Debug\Exercicio54_corrigido.exe.config
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio54_corrigido\bin\Debug\Exercicio54_corrigido.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio54_corrigido\bin\Debug\Exercicio54_corrigido.pdb
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio54_corrigido\obj\Debug\Exercicio54_corrigido.csproj.AssemblyReference.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio54_corrigido\obj\Debug\Exercicio54_corrigido.csproj.CoreCompileInputs.cache
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio54_corrigido\obj\Debug\Exercicio54_corrigido.exe
+C:\Users\aaparecido\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio54_corrigido\obj\Debug\Exercicio54_corrigido.pdb
