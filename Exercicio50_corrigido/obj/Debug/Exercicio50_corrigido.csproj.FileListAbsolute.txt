@@ -1,0 +1,7 @@
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio50_corrigido\bin\Debug\Exercicio50_corrigido.exe.config
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio50_corrigido\bin\Debug\Exercicio50_corrigido.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio50_corrigido\bin\Debug\Exercicio50_corrigido.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio50_corrigido\obj\Debug\Exercicio50_corrigido.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio50_corrigido\obj\Debug\Exercicio50_corrigido.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio50_corrigido\obj\Debug\Exercicio50_corrigido.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Anderson\CURSOS\Blazor_C#\Exercícíos\ExerciciosNivel_5\Exercicio50_corrigido\obj\Debug\Exercicio50_corrigido.pdb
